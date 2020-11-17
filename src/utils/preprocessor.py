@@ -1,5 +1,5 @@
 import numpy as np
-from cv2 import imread, iresize
+from cv2 import imread, resize
 
 
 def preprocess_input(x, v2=True):
